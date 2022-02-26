@@ -1,0 +1,82 @@
+body {
+font-family: sans-serif;
+}
+
+.button{
+font-family: Montserrat;
+font-size: 36px;
+line-height: 44px;
+color: #000000;
+background: #FFB600;
+border-radius: 10px;
+text-decoration: none; 
+}
+
+header{
+width: 959px;
+height: 101px;
+left: 0px;
+top: 0px;
+background: #0776A0;
+}
+
+h1{
+width: 396px;
+height: 65px;
+left: 280px;
+top: 135px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 59px;
+color: #000000;
+}
+
+img main{
+width: 240px;
+height: 250px;
+left: 40px;
+top: 235px;
+background: url(happy-family-2284698_1920.jpg);
+}
+
+.g{
+width: 536px;
+height: 66px;
+left: 42px;
+top: 545px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+color: #FF2C00;
+
+}
+
+
+footer{
+background: #024C68;
+color: white;
+padding: 10px;
+font-size: 20px;
+}
+
+ul{
+margin-left: 20px;
+
+}
+
+li{
+    font-size: 20px;
+    list-style: url(https://mars.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg);
+}
+
+.gg{
+    text-align: center;
+    font-size: 30px;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    padding: 30px 0px 30px 0px;
+}
